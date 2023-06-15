@@ -19,6 +19,8 @@ public class First {
 	        //3 - Lấy Title và in ra console
 	        
 	      System.out.println(driver.getTitle());
+	      
+	      
 
 	}
 
